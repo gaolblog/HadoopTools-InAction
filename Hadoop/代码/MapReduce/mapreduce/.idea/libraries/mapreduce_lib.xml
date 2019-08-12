@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="mapreduce-lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../mapreduce-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../mapreduce-lib" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/hadoop-mapreduce-client-core-2.6.4-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../mapreduce-lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../mapreduce-lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
