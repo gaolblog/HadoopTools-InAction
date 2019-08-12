@@ -1,0 +1,6 @@
+hello tom spark phinex kafka
+hello jerry hadoop phinex storm tez spark
+hello tom kafka hadoop linux centos
+storm unix tez hive hbase
+spark hadoop hive linux 
+unix centos centos flink
