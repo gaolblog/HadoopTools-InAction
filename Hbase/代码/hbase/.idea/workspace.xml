@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab3c4af2-e6d8-4df5-9301-f850a89dabd6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1214083830">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.107" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.125" value="1" />
+          <entry key="project.open.time.130" value="1" />
+          <entry key="project.open.time.140" value="1" />
+          <entry key="project.open.time.141" value="1" />
+          <entry key="project.open.time.170" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.199" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.203" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5580" />
+          <entry key="xml" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5580" />
+          <entry key="XML" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="13" />
+          <entry key="filter" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="22" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="13" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="22" />
+          <entry key="Properties" value="1" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gsww/hadoop/hbase/HbaseMapReduce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="85" column="66" lean-forward="true" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>close</find>
+      <find>hbaseConf</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>conf</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/gsww/hadoop/hbase/HbaseTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gsww/hadoop/hbase/HbaseMapReduce.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JAVA\IdeaProjects\MavenProject\maven\repository" />
+        <option name="userSettingsFile" value="D:\JAVA\IdeaProjects\MavenProject\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hbase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hbase" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="50" />
+    <option name="y" value="11" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547029638990" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Program (X86)/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HbaseMapReduce">
+    <configuration name="HbaseMapReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gsww.hadoop.hbase.HbaseMapReduce" />
+      <module name="hbase" />
+      <option name="VM_PARAMETERS" value="-DHADOOP_USER_NAME=root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gsww.hadoop.hbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseTest.queryDataByRowFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gsww.hadoop.hbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gsww.hadoop.hbase" />
+      <option name="MAIN_CLASS_NAME" value="com.gsww.hadoop.hbase.HbaseTest" />
+      <option name="METHOD_NAME" value="queryDataByRowFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseTest.queryDataSetByRowFilterList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gsww.hadoop.hbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gsww.hadoop.hbase" />
+      <option name="MAIN_CLASS_NAME" value="com.gsww.hadoop.hbase.HbaseTest" />
+      <option name="METHOD_NAME" value="queryDataSetByRowFilterList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseTest.scanTableBy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gsww.hadoop.hbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gsww.hadoop.hbase" />
+      <option name="MAIN_CLASS_NAME" value="com.gsww.hadoop.hbase.HbaseTest" />
+      <option name="METHOD_NAME" value="scanTableBy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseTest.scanTableByMultipleColumnPrefixFilter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gsww.hadoop.hbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gsww.hadoop.hbase" />
+      <option name="MAIN_CLASS_NAME" value="com.gsww.hadoop.hbase.HbaseTest" />
+      <option name="METHOD_NAME" value="scanTableByMultipleColumnPrefixFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HbaseMapReduce" />
+      <item itemvalue="JUnit.HbaseTest.scanTableBy" />
+      <item itemvalue="JUnit.HbaseTest.scanTableByMultipleColumnPrefixFilter" />
+      <item itemvalue="JUnit.HbaseTest.queryDataByRowFilter" />
+      <item itemvalue="JUnit.HbaseTest.queryDataSetByRowFilterList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HbaseMapReduce" />
+        <item itemvalue="JUnit.HbaseTest.queryDataSetByRowFilterList" />
+        <item itemvalue="JUnit.HbaseTest.queryDataByRowFilter" />
+        <item itemvalue="JUnit.HbaseTest.scanTableByMultipleColumnPrefixFilter" />
+        <item itemvalue="JUnit.HbaseTest.scanTableBy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab3c4af2-e6d8-4df5-9301-f850a89dabd6" name="Default Changelist" comment="" />
+      <created>1545919317481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545919317481</updated>
+      <workItem from="1545919325165" duration="10310000" />
+      <workItem from="1545959913296" duration="2584000" />
+      <workItem from="1546007320662" duration="5932000" />
+      <workItem from="1546046400140" duration="33000" />
+      <workItem from="1546047711741" duration="934000" />
+      <workItem from="1546412095197" duration="146000" />
+      <workItem from="1546413114979" duration="1873000" />
+      <workItem from="1546418604152" duration="1387000" />
+      <workItem from="1546422066565" duration="2468000" />
+      <workItem from="1546436888289" duration="176000" />
+      <workItem from="1546478933717" duration="10629000" />
+      <workItem from="1546527648349" duration="56000" />
+      <workItem from="1546564963398" duration="10104000" />
+      <workItem from="1546658464799" duration="37000" />
+      <workItem from="1546848861302" duration="2615000" />
+      <workItem from="1546872212606" duration="595000" />
+      <workItem from="1546910905515" duration="20051000" />
+      <workItem from="1546961494937" duration="18000" />
+      <workItem from="1546997960735" duration="4774000" />
+      <workItem from="1547004605623" duration="11596000" />
+      <workItem from="1547430913960" duration="612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HbaseTest_queryDataSetByRowFilterList - 2019.01.04 at 10h 38m 58s.xml">
+      <configuration name="HbaseTest.queryDataSetByRowFilterList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HbaseTest_queryDataSetByRowFilterList - 2019.01.04 at 10h 39m 38s.xml">
+      <configuration name="HbaseTest.queryDataSetByRowFilterList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HbaseTest_queryDataSetByRowFilterList - 2019.01.04 at 11h 00m 02s.xml">
+      <configuration name="HbaseTest.queryDataSetByRowFilterList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HbaseTest_queryDataSetByRowFilterList - 2019.01.04 at 11h 03m 17s.xml">
+      <configuration name="HbaseTest.queryDataSetByRowFilterList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HbaseTest_queryDataSetByRowFilterList - 2019.01.04 at 11h 06m 20s.xml">
+      <configuration name="HbaseTest.queryDataSetByRowFilterList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HbaseTest_queryDataSetByRowFilterList - 2019.01.04 at 11h 08m 52s.xml">
+      <configuration name="HbaseTest.queryDataSetByRowFilterList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HbaseTest_queryDataSetByRowFilterList - 2019.01.04 at 11h 10m 36s.xml">
+      <configuration name="HbaseTest.queryDataSetByRowFilterList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HbaseTest_queryDataSetByRowFilterList - 2019.01.04 at 11h 11m 39s.xml">
+      <configuration name="HbaseTest.queryDataSetByRowFilterList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HbaseTest_queryDataSetByRowFilterList - 2019.01.04 at 11h 41m 11s.xml">
+      <configuration name="HbaseTest.queryDataSetByRowFilterList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HbaseTest_queryDataSetByRowFilterList - 2019.01.04 at 11h 41m 39s.xml">
+      <configuration name="HbaseTest.queryDataSetByRowFilterList" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="86930000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.23322147" weight="0.19969743" />
+      <window_info id="Structure" order="1" sideWeight="0.7667785" side_tool="true" weight="0.2647504" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924472" weight="0.38926175" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007553" side_tool="true" weight="0.35179153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.49832216" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hadoop/hadoop-common/2.5.1/hadoop-common-2.5.1.jar!/org/apache/hadoop/conf/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5.jar!/org/apache/hadoop/hbase/client/ConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="881" column="16" selection-start-line="881" selection-start-column="16" selection-end-line="881" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/client/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="45" column="51" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/client/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2546">
+          <caret line="168" column="9" selection-start-line="168" selection-start-column="9" selection-end-line="168" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/client/Put.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56905">
+          <caret line="3182" column="21" selection-start-line="3182" selection-start-column="16" selection-end-line="3182" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/com/gsww/hadoop/hbase/HbaseTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-common/1.2.5/hbase-common-1.2.5.jar!/org/apache/hadoop/hbase/TableName.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="180" column="35" selection-start-line="180" selection-start-column="18" selection-end-line="180" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/client/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hadoop/hadoop-common/2.5.1/hadoop-common-2.5.1-sources.jar!/org/apache/hadoop/conf/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="166" column="70" selection-start-line="166" selection-start-column="47" selection-end-line="166" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/client/ResultScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/client/Scan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3073">
+          <caret line="83" column="33" lean-forward="true" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/filter/SingleColumnValueFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1640">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/filter/MultipleColumnPrefixFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/filter/RegexStringComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/filter/CompareFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/filter/ValueFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/filter/FilterList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="55" column="43" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/filter/ColumnCountGetFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/filter/FilterBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.5/hbase-client-1.2.5-sources.jar!/org/apache/hadoop/hbase/filter/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.hadoop.hbase.filter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.hadoop.hbase.filter</OriginalElement>
+          <nodes>
+            <node x="1101.0" y="475.0">org.apache.hadoop.hbase.filter.LongComparator</node>
+            <node x="497.5" y="385.0">org.apache.hadoop.hbase.filter.ByteArrayComparable</node>
+            <node x="2525.0" y="230.0">org.apache.hadoop.hbase.filter.InclusiveStopFilter</node>
+            <node x="1526.462643678161" y="310.0">org.apache.hadoop.hbase.filter.FamilyFilter</node>
+            <node x="1755.0" y="80.0">org.apache.hadoop.hbase.filter.FilterList</node>
+            <node x="752.0000000000001" y="230.0">org.apache.hadoop.hbase.filter.ColumnPrefixFilter</node>
+            <node x="907.0" y="475.0">org.apache.hadoop.hbase.filter.SubstringComparator</node>
+            <node x="2230.0" y="230.0">org.apache.hadoop.hbase.filter.RandomRowFilter</node>
+            <node x="1539.0" y="230.0">org.apache.hadoop.hbase.filter.ColumnPaginationFilter</node>
+            <node x="194.0" y="230.0">org.apache.hadoop.hbase.filter.MultiRowRangeFilter</node>
+            <node x="1872.0" y="310.0">org.apache.hadoop.hbase.filter.ValueFilter</node>
+            <node x="316.0" y="475.0">org.apache.hadoop.hbase.filter.BinaryComparator</node>
+            <node x="491.0" y="475.0">org.apache.hadoop.hbase.filter.RegexStringComparator</node>
+            <node x="1969.0" y="385.0">org.apache.hadoop.hbase.filter.ParseFilter</node>
+            <node x="1607.0" y="80.0">org.apache.hadoop.hbase.filter.FilterWrapper</node>
+            <node x="2000.0" y="310.0">org.apache.hadoop.hbase.filter.RowFilter</node>
+            <node x="1740.0" y="230.0">org.apache.hadoop.hbase.filter.SkipFilter</node>
+            <node x="2697.0" y="230.0">org.apache.hadoop.hbase.filter.TimestampsFilter</node>
+            <node x="1861.0" y="230.0">org.apache.hadoop.hbase.filter.CompareFilter</node>
+            <node x="1362.0" y="230.0">org.apache.hadoop.hbase.filter.ColumnRangeFilter</node>
+            <node x="162.0" y="475.0">org.apache.hadoop.hbase.filter.BitComparator</node>
+            <node x="700.0" y="475.0">org.apache.hadoop.hbase.filter.BinaryPrefixComparator</node>
+            <node x="1294.0" y="385.0">org.apache.hadoop.hbase.filter.IncompatibleFilterException</node>
+            <node x="0.0" y="475.0">org.apache.hadoop.hbase.filter.NullComparator</node>
+            <node x="924.0000000000001" y="230.0">org.apache.hadoop.hbase.filter.FirstKeyOnlyFilter</node>
+            <node x="1547.0" y="385.0">org.apache.hadoop.hbase.filter.InvalidRowFilterException</node>
+            <node x="0.0" y="230.0">org.apache.hadoop.hbase.filter.ColumnCountGetFilter</node>
+            <node x="359.0" y="310.0">org.apache.hadoop.hbase.filter.SingleColumnValueExcludeFilter</node>
+            <node x="588.0000000000001" y="230.0">org.apache.hadoop.hbase.filter.WhileMatchFilter</node>
+            <node x="866.5000000000001" y="310.0">org.apache.hadoop.hbase.filter.FirstKeyValueMatchingQualifiersFilter</node>
+            <node x="1091.0" y="230.0">org.apache.hadoop.hbase.filter.PrefixFilter</node>
+            <node x="2121.0" y="310.0">org.apache.hadoop.hbase.filter.DependentColumnFilter</node>
+            <node x="1381.462643678161" y="310.0">org.apache.hadoop.hbase.filter.QualifierFilter</node>
+            <node x="2400.0" y="230.0">org.apache.hadoop.hbase.filter.PageFilter</node>
+            <node x="2011.0" y="230.0">org.apache.hadoop.hbase.filter.MultipleColumnPrefixFilter</node>
+            <node x="2863.0" y="230.0">org.apache.hadoop.hbase.filter.FuzzyRowFilter</node>
+            <node x="1633.0" y="0.0">org.apache.hadoop.hbase.filter.Filter</node>
+            <node x="1483.0" y="80.0">org.apache.hadoop.hbase.filter.FilterBase</node>
+            <node x="1787.0" y="385.0">org.apache.hadoop.hbase.filter.ParseConstants</node>
+            <node x="381.0" y="230.0">org.apache.hadoop.hbase.filter.SingleColumnValueFilter</node>
+            <node x="1219.0" y="230.0">org.apache.hadoop.hbase.filter.KeyOnlyFilter</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.hadoop.hbase.filter.NullComparator" target="org.apache.hadoop.hbase.filter.ByteArrayComparable">
+              <point x="0.0" y="-15.0" />
+              <point x="71.0" y="435.0" />
+              <point x="510.07142857142856" y="435.0" />
+              <point x="-75.42857142857144" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.MultipleColumnPrefixFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="2110.5" y="180.0" />
+              <point x="1555.2222222222222" y="180.0" />
+              <point x="20.22222222222217" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.FilterList" target="org.apache.hadoop.hbase.filter.Filter">
+              <point x="0.0" y="-15.0" />
+              <point x="1802.5" y="55.0" />
+              <point x="1696.3333333333335" y="55.0" />
+              <point x="25.333333333333258" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.LongComparator" target="org.apache.hadoop.hbase.filter.ByteArrayComparable">
+              <point x="0.0" y="-15.0" />
+              <point x="1175.0" y="435.0" />
+              <point x="660.9285714285714" y="435.0" />
+              <point x="75.42857142857144" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.ValueFilter" target="org.apache.hadoop.hbase.filter.CompareFilter">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.QualifierFilter" target="org.apache.hadoop.hbase.filter.CompareFilter">
+              <point x="0.0" y="-15.0" />
+              <point x="1443.962643678161" y="280.0" />
+              <point x="1874.0" y="280.0" />
+              <point x="-52.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.SkipFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="1790.5" y="200.0" />
+              <point x="1543.666666666667" y="200.0" />
+              <point x="8.666666666666742" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.KeyOnlyFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="1280.5" y="200.0" />
+              <point x="1526.3333333333335" y="200.0" />
+              <point x="-8.666666666666742" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.BinaryComparator" target="org.apache.hadoop.hbase.filter.ByteArrayComparable">
+              <point x="0.0" y="-15.0" />
+              <point x="393.5" y="455.0" />
+              <point x="560.3571428571429" y="455.0" />
+              <point x="-25.14285714285711" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.FirstKeyValueMatchingQualifiersFilter" target="org.apache.hadoop.hbase.filter.FirstKeyOnlyFilter">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.FilterWrapper" target="org.apache.hadoop.hbase.filter.Filter">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.PrefixFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="1145.0" y="190.0" />
+              <point x="1520.5555555555557" y="190.0" />
+              <point x="-14.444444444444343" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.FilterBase" target="org.apache.hadoop.hbase.filter.Filter">
+              <point x="0.0" y="-15.0" />
+              <point x="1535.0" y="55.0" />
+              <point x="1645.666666666667" y="55.0" />
+              <point x="-25.333333333333258" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.SingleColumnValueFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="474.5" y="150.0" />
+              <point x="1497.4444444444443" y="150.0" />
+              <point x="-37.55555555555566" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.PageFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="2452.5" y="160.0" />
+              <point x="1566.7777777777778" y="160.0" />
+              <point x="31.77777777777783" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.FuzzyRowFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="2929.0" y="130.0" />
+              <point x="1584.1111111111113" y="130.0" />
+              <point x="49.111111111111086" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.DependentColumnFilter" target="org.apache.hadoop.hbase.filter.CompareFilter">
+              <point x="0.0" y="-15.0" />
+              <point x="2213.0" y="280.0" />
+              <point x="1978.0" y="280.0" />
+              <point x="52.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.SubstringComparator" target="org.apache.hadoop.hbase.filter.ByteArrayComparable">
+              <point x="0.0" y="-15.0" />
+              <point x="994.0" y="445.0" />
+              <point x="635.7857142857143" y="445.0" />
+              <point x="50.285714285714334" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.SingleColumnValueExcludeFilter" target="org.apache.hadoop.hbase.filter.SingleColumnValueFilter">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.ColumnPaginationFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="1629.5" y="210.0" />
+              <point x="1537.8888888888891" y="210.0" />
+              <point x="2.888888888888914" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.CompareFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="1926.0" y="190.0" />
+              <point x="1549.4444444444443" y="190.0" />
+              <point x="14.444444444444343" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.RegexStringComparator" target="org.apache.hadoop.hbase.filter.ByteArrayComparable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.ColumnRangeFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="1440.5" y="210.0" />
+              <point x="1532.1111111111113" y="210.0" />
+              <point x="-2.888888888888914" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.RowFilter" target="org.apache.hadoop.hbase.filter.CompareFilter">
+              <point x="0.0" y="-15.0" />
+              <point x="2050.5" y="290.0" />
+              <point x="1952.0" y="290.0" />
+              <point x="26.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.ColumnPrefixFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="828.0000000000001" y="170.0" />
+              <point x="1509.0" y="170.0" />
+              <point x="-26.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.WhileMatchFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="660.0000000000001" y="160.0" />
+              <point x="1503.2222222222222" y="160.0" />
+              <point x="-31.77777777777783" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.ColumnCountGetFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="87.0" y="130.0" />
+              <point x="1485.8888888888891" y="130.0" />
+              <point x="-49.111111111111086" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.FirstKeyOnlyFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="997.5000000000001" y="180.0" />
+              <point x="1514.7777777777778" y="180.0" />
+              <point x="-20.22222222222217" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.FamilyFilter" target="org.apache.hadoop.hbase.filter.CompareFilter">
+              <point x="0.0" y="-15.0" />
+              <point x="1582.462643678161" y="290.0" />
+              <point x="1900.0" y="290.0" />
+              <point x="-26.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.MultiRowRangeFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="277.5" y="140.0" />
+              <point x="1491.666666666667" y="140.0" />
+              <point x="-43.33333333333326" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.TimestampsFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="2770.0" y="140.0" />
+              <point x="1578.3333333333335" y="140.0" />
+              <point x="43.33333333333326" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.BinaryPrefixComparator" target="org.apache.hadoop.hbase.filter.ByteArrayComparable">
+              <point x="0.0" y="-15.0" />
+              <point x="793.5" y="455.0" />
+              <point x="610.6428571428572" y="455.0" />
+              <point x="25.142857142857224" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.InclusiveStopFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="2601.0" y="150.0" />
+              <point x="1572.5555555555557" y="150.0" />
+              <point x="37.55555555555566" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.RandomRowFilter" target="org.apache.hadoop.hbase.filter.FilterBase">
+              <point x="0.0" y="-15.0" />
+              <point x="2305.0" y="170.0" />
+              <point x="1561.0" y="170.0" />
+              <point x="26.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.hadoop.hbase.filter.BitComparator" target="org.apache.hadoop.hbase.filter.ByteArrayComparable">
+              <point x="0.0" y="-15.0" />
+              <point x="229.0" y="445.0" />
+              <point x="535.2142857142858" y="445.0" />
+              <point x="-50.28571428571422" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.4187396351575456" x="1911.0" y="282.0" />
+          <SelectedNodes>
+            <node>org.apache.hadoop.hbase.filter.NullComparator</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-common/1.2.0-cdh5.14.4/hbase-common-1.2.0-cdh5.14.4.jar!/org/apache/hadoop/hbase/io/ImmutableBytesWritable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0-cdh5.14.4/hadoop-mapreduce-client-core-2.6.0-cdh5.14.4.jar!/org/apache/hadoop/mapreduce/TaskInputOutputContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0-cdh5.14.4/hadoop-mapreduce-client-core-2.6.0-cdh5.14.4.jar!/org/apache/hadoop/mapreduce/task/TaskInputOutputContextImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/core-site.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gsww/hadoop/hbase/HbaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#createTable#0;class#HbaseTest#0" />
+            <element signature="method#deleteData#0;class#HbaseTest#0" />
+            <element signature="method#queryData#0;class#HbaseTest#0" />
+            <element signature="method#scanTable#0;class#HbaseTest#0" />
+            <element signature="method#scanTableByColumnPrefixFilter#0;class#HbaseTest#0" />
+            <element signature="method#scanTableByMultipleColumnPrefixFilter#0;class#HbaseTest#0" />
+            <element signature="method#queryDataSetByRowFilter#0;class#HbaseTest#0" />
+            <element signature="method#queryDataSetByRowFilterList#0;class#HbaseTest#0" />
+            <element signature="method#deleteTable#0;class#HbaseTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-common/1.2.0-cdh5.14.4/hbase-common-1.2.0-cdh5.14.4.jar!/org/apache/hadoop/hbase/HBaseConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program (X86)/java/jdk1.8.0_111/jre/lib/rt.jar!/sun/nio/ch/SocketChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15599">
+          <caret line="848" selection-start-line="848" selection-end-line="848" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-server/1.2.0-cdh5.14.4/hbase-server-1.2.0-cdh5.14.4.jar!/org/apache/hadoop/hbase/mapreduce/TableReducer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="105" selection-start-line="14" selection-start-column="105" selection-end-line="14" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../MavenProject/maven/repository/org/apache/hbase/hbase-client/1.2.0-cdh5.14.4/hbase-client-1.2.0-cdh5.14.4.jar!/org/apache/hadoop/hbase/client/Mutation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="140" column="36" selection-start-line="140" selection-start-column="36" selection-end-line="140" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gsww/hadoop/hbase/HbaseMapReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="85" column="66" lean-forward="true" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="jpa-descriptors" />
+              <type id="javaee-facet-resources" />
+              <type id="artifact" />
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>hbase:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.10.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hbase</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2020202" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
